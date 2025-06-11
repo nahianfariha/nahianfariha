@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Nahian Fariha 👩‍🎓 💻 🔬 🎨 🐍  🌱</h1>
-<h3 align="center"> • Exploring Machine Learning  & Building Responsive Web Apps • CS & Engineering Graduate • Former Founder & Sole Artist of Dot Pictures Studio • Stepping Towards LLMs, Generative AI & Computer Vision Research. </h3>
+<h3 align="center"> a Computer Science & Engineering Graduate, exploring Machine Learning  & building Responsive Web Apps • Former Founder & Sole Artist of Dot Pictures Studio • Stepping Towards LLMs, Generative AI & Computer Vision Research. </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-43B581?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -14,6 +14,7 @@
 - 💻 [**Dot Pictures Studio**](nahianfariha/github.io/dotpicturesstudio) –Developed a fully responsive web application to elevate and streamline my art business—built with React, Tailwind CSS, and Node.js using Vite for modern, efficient deployment.
 - 🤖 [**LLM Research**](https://github.com/nahianfariha/llm-research) – Explorations in Language Models & Generative AI  
 - 🌐 [**Portfolio Website**](https://nahianfariha.github.io) – Built using React, Tailwind, Vite  
+
 
 ---
 
@@ -61,6 +62,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
+![image](https://github.com/user-attachments/assets/4c6bee30-e290-4bc7-9388-002c3d95dd8c)
 
 ---
 
