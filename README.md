@@ -12,8 +12,7 @@
 ### 💼 Featured Projects
 
 - 💻 [**Dot Pictures Studio**](nahianfariha/github.io/dotpicturesstudio) –Developed a fully responsive web application to elevate and streamline my art business—built with React, Tailwind CSS, and Node.js using Vite for modern, efficient deployment.
-- 🤖 [**LLM Research**](https://github.com/nahianfariha/llm-research) – Explorations in Language Models & Generative AI  
-- 🌐 [**Portfolio Website**](https://nahianfariha.github.io) – Built using React, Tailwind, Vite  
+- 🤖[https://github.com/nahianfariha/REAL-TIME-SOCIAL-DISTANCE-ESTIMATION-USING-YOLO-CONVOLUTIONAL-NEURAL-NETWORK-AND-EUCLIDEAN-DISTANCE]
 
 
 ---
