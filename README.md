@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Nahian Fariha 👩‍🎓 💻 🔬 🎨 🐍  🌱</h1>
-<h3 align="center"> a Computer Science & Engineering Graduate, exploring Machine Learning  & building Responsive Web Apps • Former Founder & Sole Artist of Dot Pictures Studio • Stepping Towards LLMs, Generative AI & Computer Vision Research. </h3>
+<h3 align="center"> a Computer Science & Engineering Graduate, exploring Machine Learning  & building Responsive Web Apps & former Founder & Sole Artist of Dot Pictures Studio • Recent News : I am Stepping towards LLMs, Generative AI & Computer Vision Research. </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-43B581?style=for-the-badge&logo=scikit-learn&logoColor=white" />
