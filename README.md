@@ -42,17 +42,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahianfariha&layout=compact&theme=graywhite" alt="Top Languages" />
-  <img src="https://komarev.com/ghpvc/?username=nahianfariha&label=Profile%20views&color=7FDBFF&style=flat" alt="Profile views" />
+  <em>“Creation and problem-solving bring me joy—they’re at the heart of everything I do.”</em>
 </p>
-
----
-
-### 🔗 Connect with Me
-
+🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/nahian-fariha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
@@ -61,16 +54,4 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
-![image](https://github.com/user-attachments/assets/4c6bee30-e290-4bc7-9388-002c3d95dd8c)
 
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahianfariha&theme=default" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <em>“Creation and problem-solving bring me joy—they’re at the heart of everything I do.”</em>
-</p>
