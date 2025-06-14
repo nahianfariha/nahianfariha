@@ -1,4 +1,7 @@
-<h1 align="center">Hey there! I'm Nahian Fariha 👩‍🎓🌱</h1>
+<p align="center">
+  <img src="gif1.gif" alt="Welcome GIF" width="100" />
+</p>
+<h1 align="center">I'm Nahian Fariha 👩‍🎓🌱</h1>
 <h2 align="center"> a CS & Engineering Graduate • Exploring Machine Learning & Building Responsive Web Apps💻 • Founder & Sole Artist of Dot Pictures Studio🎨 • Currently Exploring Research Opportunities in LLMs, Generative AI & Computer Vision🔬</h2>  
 
 <p align="center">
@@ -56,3 +59,6 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="gif4.gif" alt="Welcome GIF" width="400" />
+</p>
