@@ -60,5 +60,5 @@
 </p>
 
 <p align="center">
-  <img src="gif5.gif" alt="Welcome GIF" width="600" />
+  <img src="gif7.gif" alt="Welcome GIF" width="500" />
 </p>
