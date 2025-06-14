@@ -22,6 +22,7 @@
 <p align="center">
   <!-- Web & Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
@@ -42,8 +43,8 @@
 
 ---
 
-<p align="center">
-  <em>“Creation and problem-solving bring me joy—they’re at the heart of everything I do.”</em>
+<p align="center" style="font-family: 'Lato', sans-serif; font-style: normal; text-transform: uppercase;">
+  “CREATION AND PROBLEM-SOLVING BRING ME JOY—THEY’RE AT THE HEART OF EVERYTHING I DO.”
 </p>
 🔗 Connect with Me
 <p align="center">
