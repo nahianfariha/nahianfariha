@@ -1,14 +1,14 @@
-<p align="center">
-  <img src="gif1.gif" alt="Welcome GIF" width="100" />
-</p>
-<h1 align="center">I'm Nahian Fariha 👩‍🎓🌱</h1>
-<h2 align="center"> a CS & Engineering Graduate • Exploring Machine Learning & Building Responsive Web Apps💻 • Founder & Sole Artist of Dot Pictures Studio🎨 • Currently Exploring Research Opportunities in LLMs, Generative AI & Computer Vision🔬</h2>  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-43B581?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<table align="center">
+  <tr>
+    <td><img src="gif1.gif" alt="Welcome GIF" width="80"></td>
+    <td><h1>I'm Fariha 👩‍🎓🌱</h1>
+  </tr>
+</table>
+<h3 align="center">• Exploring Machine Learning & Building Responsive Web Apps💻 <br> • CS & Engineering Graduate🎓 <br> • Founder & Sole Artist of Dot Pictures Studio🎨<br>  • Currently Exploring Research Opportunities in  <br> <br> <img src="https://img.shields.io/badge/Machine%20Learning-43B581?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Generative%20AI-7FDBFF?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-6495ED?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Computer%20Vision-6495ED?style=for-the-badge&logo=opencv&logoColor=white" /> 
+</h3>  
+
 
 ---
 
@@ -47,9 +47,8 @@
 ---
 
 <p align="center" style="font-family: 'Lato', sans-serif; font-style: normal; text-transform: uppercase;">
-  “CREATION AND PROBLEM-SOLVING BRING ME JOY—THEY’RE AT THE HEART OF EVERYTHING I DO.”
+<h3 align="center"> “CREATION AND PROBLEM-SOLVING BRING ME JOY—THEY’RE AT THE HEART OF EVERYTHING I DO.” </h3>   <h4 align="center"> Connect with Me:</h4> 
 </p>
-🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/nahian-fariha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
@@ -60,5 +59,5 @@
 </p>
 
 <p align="center">
-  <img src="gitgif0.gif" alt="Welcome GIF" width="450" />
+  <img src="gifff.gif" alt="Welcome GIF" width="400" />
 </p>
