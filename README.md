@@ -4,11 +4,8 @@
     <td><h1>I'm Fariha 👩‍🎓🌱</h1>
   </tr>
 </table>
-<h3 align="center">• Exploring Machine Learning & Building Responsive Web Apps💻 <br> • CS & Engineering Graduate🎓 <br> • Founder & Sole Artist of Dot Pictures Studio🎨<br>  • Currently Exploring Research Opportunities in  <br> <br> <img src="https://img.shields.io/badge/Machine%20Learning-43B581?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Generative%20AI-7FDBFF?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Computer%20Vision-6495ED?style=for-the-badge&logo=opencv&logoColor=white" /> 
-
+<h3 align="center">• Exploring <br><br> <img src="https://img.shields.io/badge/Machine%20Learning-43B581?style=for-the-badge&logo=scikit-learn&logoColor=white"  />
+  <img src="https://img.shields.io/badge/Generative%20AI-7FDBFF?style=for-the-badge&logo=openai&logoColor=white" /> <br>  & Building Responsive Web Apps💻 <br> • CS & Engineering Graduate🎓 <br> • Founder & Sole Artist of Dot Pictures Studio🎨
 </h3>  
 
 
