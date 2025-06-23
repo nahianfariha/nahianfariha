@@ -1,25 +1,5 @@
-<table align="center">
-  <tr>
-    <td><img src="gif1.gif" alt="Welcome GIF" width="80"></td>
-    <td><h1>I'm Fariha 👩‍🎓🌱</h1>
-  </tr>
-</table>
-<h3 align="center">• Exploring <br><br> <img src="https://img.shields.io/badge/Machine%20Learning-43B581?style=for-the-badge&logo=scikit-learn&logoColor=white"  />
-  <img src="https://img.shields.io/badge/Generative%20AI-7FDBFF?style=for-the-badge&logo=openai&logoColor=white" /> <br>  & Building Responsive Web Apps💻 <br> • CS & Engineering Graduate🎓 <br> • Founder & Sole Artist of Dot Pictures Studio🎨
-</h3>  
-
-
----
-
-### 💼 Featured Projects
-
-- 💻 [**Dot Pictures Studio**](nahianfariha/github.io/dotpicturesstudio) –Developed a fully responsive web application to elevate and streamline my art business—built with React, Tailwind CSS, and Node.js using Vite for modern, efficient deployment.
-- 🤖[https://github.com/nahianfariha/REAL-TIME-SOCIAL-DISTANCE-ESTIMATION-USING-YOLO-CONVOLUTIONAL-NEURAL-NETWORK-AND-EUCLIDEAN-DISTANCE]
-
-
----
-
-### ⚙️ Tech Stack & Tools
+<h3 align="center">💻 Hi, I am Fariha, a CS & Engineering Graduate, exploring Machine Learning (esp. Generative Ai) & building Responsive Web Apps. I am the Founder & Sole Artist of Dot Pictures Studio. <br>
+⚙️Tools & Technologies I Use: </h3> 
 
 <p align="center">
   <!-- Web & Programming Languages -->
@@ -42,6 +22,11 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
 </p>
+<h3>💼 Featured Projects </h3>
+
+- 💻 [**Dot Pictures Studio**](nahianfariha/github.io/dotpicturesstudio) –Developed a fully responsive web application to elevate and streamline my art business—built with React, Tailwind CSS, and Node.js using Vite for modern, efficient deployment.
+- 🤖[https://github.com/nahianfariha/REAL-TIME-SOCIAL-DISTANCE-ESTIMATION-USING-YOLO-CONVOLUTIONAL-NEURAL-NETWORK-AND-EUCLIDEAN-DISTANCE]
+
 
 ---
 
