@@ -45,7 +45,7 @@ Former founder & independent artist at Dot Pictures Studio, where I designed UI/
 <h3>💼 Featured Projects </h3>
 
 - 💻 [**Dot Pictures Studio**](nahianfariha/github.io/dotpicturesstudio) –Developed a fully responsive web application to elevate and streamline my art business—built with React, Tailwind CSS, and Node.js using Vite for modern, efficient deployment.
-- 🤖[https://github.com/nahianfariha/REAL-TIME-SOCIAL-DISTANCE-ESTIMATION-USING-YOLO-CONVOLUTIONAL-NEURAL-NETWORK-AND-EUCLIDEAN-DISTANCE]
+- 🤖[**REAL-TIME Social Distance Estimation using YOLO Convolutional Neural Network and Euclidean Distance **](https://github.com/nahianfariha/REAL-TIME-SOCIAL-DISTANCE-ESTIMATION-USING-YOLO-CONVOLUTIONAL-NEURAL-NETWORK-AND-EUCLIDEAN-DISTANCE.git)
 
 
 ---
