@@ -1,6 +1,6 @@
 <h2 align="center">🎓CS & Engineering Graduate passionate about Machine Learning, Generative AI, and Software Development. </h2>
 
-<h5🛠 Technical Skills:
+🛠 Technical Skills:
 Programming Languages: Python, C, C++, JavaScript
 
 Web Development:
@@ -20,7 +20,6 @@ Trainee (BITM)- Skills: OOP basics, Web basics (HTML, CSS, JavaScript), working 
 
 Former founder & independent artist at Dot Pictures Studio, where I designed UI/UX, graphics, Cartoon Banners and hand-painted products.
 
- </h5> 
 
 <p align="center">
   <!-- Web & Programming Languages -->
