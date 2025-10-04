@@ -1,4 +1,14 @@
-<h3 align="center">💻 Hi, I’m Fariha, a CS & Engineering Graduate exploring Machine Learning and interested in research in Generative AI. I can build responsive web applications and combine technical skills with creative problem-solving. I also work as an Agent Banking Desk Officer and am the founder and sole artist of Dot Pictures Studio. <br>
+<h3 align="center">🎓 About Me
+
+CS & Engineering Graduate passionate about Machine Learning, Generative AI, and Software Development.
+
+💻 Projects with Python, C++, Databases, Web Development
+
+🔍 Research interests: Machine Learning & Generative AI
+
+🛠 Strong foundation in Object-Oriented Programming
+
+🎨 Creativity + tech: UI/UX design & digital art experience<br>
 ⚙️Tools & Technologies I Use: </h3> 
 
 <p align="center">
