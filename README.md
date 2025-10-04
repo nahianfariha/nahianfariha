@@ -1,15 +1,28 @@
-<h3 align="center">🎓 About Me
+<h3 align="center">🎓CS & Engineering Graduate passionate about Machine Learning, Generative AI, and Software Development.
 
-CS & Engineering Graduate passionate about Machine Learning, Generative AI, and Software Development.
+🛠 Technical Skills:
 
-💻 Projects with Python, C++, Databases, Web Development
+Programming Languages: Python, C, C++, JavaScript
 
-🔍 Research interests: Machine Learning & Generative AI
+Web Development:
+Frontend: HTML5, CSS3, Flexbox, Grid, Bootstrap, TailwindCSS, JavaScript, DOM, jQuery, React.js, EJS, Flowbite
+Backend: Node.js, Express.js
+Database: SQL, PostgreSQL, Microsoft SQL Server
+Version Control: Git, GitHub
+APIs: RESTful API development & integration
+Tools: Vite, VS Code
 
-🛠 Strong foundation in Object-Oriented Programming
+Machine Learning: Jupyter Notebook, Google Colab, Python libraries (NumPy, Pandas, Scikit-learn, TensorFlow)
 
-🎨 Creativity + tech: UI/UX design & digital art experience<br>
-⚙️Tools & Technologies I Use: </h3> 
+💼 Experience:
+
+Currently working as Agent Banking Desk Officer, IBBL PLC
+
+Trainee (BITM)- Skills: OOP basics, Web basics (HTML, CSS, JavaScript), working with databases (MS SQL Server), web programming basics, and understanding the full life cycle of a real-life project with in-depth involvement.
+
+Former founder & independent artist at Dot Pictures Studio, where I designed UI/UX, graphics, Cartoon Banners and hand-painted products.
+
+ </h3> 
 
 <p align="center">
   <!-- Web & Programming Languages -->
