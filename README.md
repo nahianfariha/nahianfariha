@@ -1,7 +1,6 @@
-<h5 align="center">🎓CS & Engineering Graduate passionate about Machine Learning, Generative AI, and Software Development.
+<h2 align="center">🎓CS & Engineering Graduate passionate about Machine Learning, Generative AI, and Software Development. </h2>
 
-🛠 Technical Skills:
-
+<h5🛠 Technical Skills:
 Programming Languages: Python, C, C++, JavaScript
 
 Web Development:
@@ -15,7 +14,6 @@ Tools: Vite, VS Code
 Machine Learning: Jupyter Notebook, Google Colab, Python libraries (NumPy, Pandas, Scikit-learn, TensorFlow)
 
 💼 Experience:
-
 Currently working as Agent Banking Desk Officer, IBBL PLC
 
 Trainee (BITM)- Skills: OOP basics, Web basics (HTML, CSS, JavaScript), working with databases (MS SQL Server), web programming basics, and understanding the full life cycle of a real-life project with in-depth involvement.
