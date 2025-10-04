@@ -1,4 +1,4 @@
-<h3 align="center">🎓CS & Engineering Graduate passionate about Machine Learning, Generative AI, and Software Development.
+<h5 align="center">🎓CS & Engineering Graduate passionate about Machine Learning, Generative AI, and Software Development.
 
 🛠 Technical Skills:
 
@@ -22,7 +22,7 @@ Trainee (BITM)- Skills: OOP basics, Web basics (HTML, CSS, JavaScript), working 
 
 Former founder & independent artist at Dot Pictures Studio, where I designed UI/UX, graphics, Cartoon Banners and hand-painted products.
 
- </h3> 
+ </h5> 
 
 <p align="center">
   <!-- Web & Programming Languages -->
