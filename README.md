@@ -45,9 +45,9 @@ Former founder & independent artist at Dot Pictures Studio, where I designed UI/
 <h3>💼 Featured Projects </h3>
 
 - 🤖📧 [GenAI Cold Email Generator](https://github.com/nahianfariha/Machine-Learning-and-Ai.git)-RAG-based Cold Email Generator using Llama 3.1, LangChain, ChromaDB, and Streamlit that helps software service companies automatically generate targeted outreach emails by extracting skills from job postings and matching relevant portfolios.
-- 💻🌐 [Dot Pictures Studio](https://nahianfariha.github.io/dotpicturesstudio) –Developed a fully responsive web application to elevate and streamline my art business—built with React, Tailwind CSS, and Node.js using Vite for modern, efficient deployment.
-- 🤖🚶 [REAL-TIME Social Distance Estimation using YOLO Convolutional Neural Network and Euclidean Distance](https://github.com/nahianfariha/REAL-TIME-SOCIAL-DISTANCE-ESTIMATION-USING-YOLO-CONVOLUTIONAL-NEURAL-NETWORK-AND-EUCLIDEAN-DISTANCE.git)
-- 🔍🎬 [Movie Recommender System using Machine Learning Techniques](https://github.com/nahianfariha/Machine-Learning-and-Ai.git)-Built a personalized movie recommendation system using Python, data preprocessing, and vectorization, with deployment via Streamlit.
+- 💻🌐 [Dot Pictures Studio](https://nahianfariha.github.io/dotpicturesstudio) –Developed a fully responsive web application for my arts and graphic business that helps me showcase and manage my work online, built with React, Tailwind CSS, and Node.js using Vite for modern, efficient deployment.
+- 🤖🚶 [REAL-TIME Social Distance Estimation using YOLO Convolutional Neural Network and Euclidean Distance](https://github.com/nahianfariha/REAL-TIME-SOCIAL-DISTANCE-ESTIMATION-USING-YOLO-CONVOLUTIONAL-NEURAL-NETWORK-AND-EUCLIDEAN-DISTANCE.git) -(Undergraduate Thesis) –Detects people in real-time videos using YOLOv3 and calculates distances with Euclidean metrics to help monitor safe distancing; completed during the COVID-19 outbreak.
+- 🔍🎬 [Movie Recommender System using Machine Learning Techniques](https://github.com/nahianfariha/Machine-Learning-and-Ai.git)-Helps users discover personalized movie suggestions based on their preferences, built with Python, data preprocessing, vectorization, and Streamlit.
 - 
 
 
