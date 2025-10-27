@@ -46,9 +46,10 @@ Former founder & independent artist at Dot Pictures Studio, where I designed UI/
 
 - 🤖📧 [GenAI Cold Email Generator](https://github.com/nahianfariha/Machine-Learning-and-Ai.git)-RAG-based Cold Email Generator using Llama 3.1, LangChain, ChromaDB, and Streamlit that helps software service companies automatically generate targeted outreach emails by extracting skills from job postings and matching relevant portfolios.
 - 💻🌐 [Dot Pictures Studio Responsive Website](https://nahianfariha.github.io/dotpicturesstudio) –Developed a fully responsive web application for my arts and graphic business that helps me showcase and manage my work online, built with React, Tailwind CSS, and Node.js using Vite for modern, efficient deployment.
-- 🤖🚶 [REAL-TIME Social Distance Estimation using YOLO Convolutional Neural Network and Euclidean Distance](https://github.com/nahianfariha/REAL-TIME-SOCIAL-DISTANCE-ESTIMATION-USING-YOLO-CONVOLUTIONAL-NEURAL-NETWORK-AND-EUCLIDEAN-DISTANCE.git) -(Undergraduate Thesis) –Detects people in real-time videos using YOLOv3 and calculates distances with Euclidean metrics to help monitor safe distancing; completed during the COVID-19 outbreak.
+- 🤖🚶 [REAL-TIME Social Distance Estimation using YOLO Convolutional Neural Network and Euclidean Distance](https://github.com/nahianfariha/REAL-TIME-SOCIAL-DISTANCE-ESTIMATION-USING-YOLO-CONVOLUTIONAL-NEURAL-NETWORK-AND-EUCLIDEAN-DISTANCE.git) –Detects people in real-time videos using YOLOv3 and calculates distances with Euclidean metrics to help monitor safe distancing; completed during the COVID-19 outbreak.
 - 🔍🎬 [Movie Recommender System using Machine Learning Techniques](https://github.com/nahianfariha/Machine-Learning-and-Ai.git)-Helps users discover personalized movie suggestions based on their preferences, built with Python, data preprocessing, vectorization, and Streamlit.
-- 
+- 📈🧑‍💻 [Restaurant Profit Estimator using Linear Regression Model](https://github.com/nahianfariha/Machine-Learning-and-Ai.git)-A predictive analytics project that estimates restaurant profits based on city population data. Built with Python, NumPy, Matplotlib, and Linear Regression implemented from scratch in Jupyter Notebook.
+- 🌐👩‍💻 [Academic Portfolio Website](https://github.com/nahianfariha/Machine-Learning-and-Ai.git)-A professional academic portfolio website to showcase my projects, research, and achievements, built with React, Vite, Tailwind CSS, Node.js, and deployed on Github Pages.
 
 
 ---
