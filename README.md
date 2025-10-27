@@ -1,4 +1,4 @@
-<h2 align="center">🎓CS & Engineering Graduate passionate about Machine Learning, Generative AI, and Software Development. </h2>
+<h2 align="center">🎓CS & Engineering graduate with strong research interest in Machine Learning, Generative AI, and Computer Vision. </h2>
 
 🛠 Technical Skills:
 Programming Languages: Python, C, C++, JavaScript
