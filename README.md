@@ -1,26 +1,5 @@
 <h2 align="center">🎓CS & Engineering graduate with strong research interest in Machine Learning, Generative AI, and Computer Vision. </h2>
 
-🛠 Technical Skills:
-Programming Languages: Python, C, C++, JavaScript
-
-Web Development:
-Frontend: HTML5, CSS3, Flexbox, Grid, Bootstrap, TailwindCSS, JavaScript, DOM, jQuery, React.js, EJS, Flowbite
-Backend: Node.js, Express.js
-Database: SQL, PostgreSQL, Microsoft SQL Server
-Version Control: Git, GitHub
-APIs: RESTful API development & integration
-Tools: Vite, VS Code
-
-Machine Learning: Jupyter Notebook, Google Colab, Python libraries (NumPy, Pandas, Scikit-learn, TensorFlow)
-
-💼 Experience:
-Currently working as Agent Banking Desk Officer, IBBL PLC
-
-Trainee (BITM)- Skills: OOP basics, Web basics (HTML, CSS, JavaScript), working with databases (MS SQL Server), web programming basics, and understanding the full life cycle of a real-life project with in-depth involvement.
-
-Former founder & independent artist at Dot Pictures Studio, where I designed UI/UX, graphics, Cartoon Banners and hand-painted products.
-
-
 <p align="center">
   <!-- Web & Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -51,6 +30,25 @@ Former founder & independent artist at Dot Pictures Studio, where I designed UI/
 - 📈🧑‍💻 [Restaurant Profit Estimator using Linear Regression Model](https://github.com/nahianfariha/Machine-Learning-and-Ai.git)-A predictive analytics project that estimates restaurant profits based on city population data. Built with Python, NumPy, Matplotlib, and Linear Regression implemented from scratch in Jupyter Notebook.
 - 🌐👩‍💻 [Academic Portfolio Website](https://github.com/nahianfariha/Machine-Learning-and-Ai.git)-A professional academic portfolio website to showcase my projects, research, and achievements, built with React, Vite, Tailwind CSS, Node.js, and deployed on Github Pages.
 
+🛠 Technical Skills:
+Programming Languages: Python, C, C++, JavaScript
+
+Web Development:
+Frontend: HTML5, CSS3, Flexbox, Grid, Bootstrap, TailwindCSS, JavaScript, DOM, jQuery, React.js, EJS, Flowbite
+Backend: Node.js, Express.js
+Database: SQL, PostgreSQL, Microsoft SQL Server
+Version Control: Git, GitHub
+APIs: RESTful API development & integration
+Tools: Vite, VS Code
+
+Machine Learning: Jupyter Notebook, Google Colab, Python libraries (NumPy, Pandas, Scikit-learn, TensorFlow)
+
+💼 Experience:
+Currently working as Agent Banking Desk Officer, IBBL PLC
+
+Trainee (BITM)- Skills: OOP basics, Web basics (HTML, CSS, JavaScript), working with databases (MS SQL Server), web programming basics, and understanding the full life cycle of a real-life project with in-depth involvement.
+
+Former founder & independent artist at Dot Pictures Studio, where I designed UI/UX, graphics, Cartoon Banners and hand-painted products.
 
 ---
 
