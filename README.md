@@ -8,9 +8,36 @@
 - 📈🧑‍💻 [Restaurant Profit Estimator using Linear Regression Model](https://github.com/nahianfariha/Restaurant-Profit-Estimator-using-Linear-Regression-Model.git)-A predictive analytics project that estimates restaurant profits based on city population data. Built with Python, NumPy, Matplotlib, and Linear Regression implemented from scratch in Jupyter Notebook.
 - 🌐👩‍💻 [Academic Portfolio Website](https://github.com/nahianfariha/Machine-Learning-and-Ai.git)-A professional academic portfolio website to showcase my projects, research, and achievements, built with React, Vite, Tailwind CSS, Node.js, and deployed on Github Pages.
 
-🛠 Technical Skills:
-Programming Languages: Python, C, C++, JavaScript
-
+🛠 Skills:
+Web & Programming Languages:<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+</p>
+ <p align="center">
+  <!-- Machine Learning & AI Tools -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-2C8EBB?style=flat&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Llama%203.1-800080?style=flat&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recommender%20Systems-00C853?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-009688?style=flat&logo=opencv&logoColor=white" />
+</p>
 Web Development:
 Frontend: HTML5, CSS3, Flexbox, Grid, Bootstrap, TailwindCSS, JavaScript, DOM, jQuery, React.js, EJS, Flowbite
 Backend: Node.js, Express.js
@@ -38,16 +65,30 @@ Former founder & independent artist at Dot Pictures Studio, where I designed UI/
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-4479A1?style=flat&logo=database&logoColor=white" />
 </p>
 
-<p align="center">
-  <!-- Machine Learning & Data -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <p align="center">
+  <!-- Machine Learning & AI Tools -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-2C8EBB?style=flat&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Llama%203.1-800080?style=flat&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recommender%20Systems-00C853?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-009688?style=flat&logo=opencv&logoColor=white" />
 </p>
+
 ---
 
 <p align="center" style="font-family: 'Lato', sans-serif; font-style: normal; text-transform: uppercase;">
