@@ -1,5 +1,5 @@
 <h2 align="center">🎓CS & Engineering graduate with strong research interest in Machine Learning, Generative AI, and Computer Vision. </h2>
-<h3>💼 Featured Projects </h3>
+<h3>💼 Featured Projects :</h3>
 
 - 🤖📧 [GenAI Cold Email Generator](https://github.com/nahianfariha/GenAI-Cold-Email-Generator.git)-RAG-based Cold Email Generator using Llama 3.1, LangChain, ChromaDB, and Streamlit that helps software service companies automatically generate targeted outreach emails by extracting skills from job postings and matching relevant portfolios.
 - 💻🌐 [Dot Pictures Studio Responsive Website](https://nahianfariha.github.io/dotpicturesstudio) –Developed a fully responsive web application for my arts and graphic business that helps me showcase and manage my work online, built with React, Tailwind CSS, and Node.js using Vite for modern, efficient deployment.
@@ -8,7 +8,7 @@
 - 📈🧑‍💻 [Restaurant Profit Estimator using Linear Regression Model](https://github.com/nahianfariha/Restaurant-Profit-Estimator-using-Linear-Regression-Model.git)-A predictive analytics project that estimates restaurant profits based on city population data. Built with Python, NumPy, Matplotlib, and Linear Regression implemented from scratch in Jupyter Notebook.
 - 🌐👩‍💻 [Academic Portfolio Website](https://github.com/nahianfariha/Machine-Learning-and-Ai.git)-A professional academic portfolio website to showcase my projects, research, and achievements, built with React, Vite, Tailwind CSS, Node.js, and deployed on Github Pages.
 
-Programming Languages and Web Development Skills:
+Programming Languages and Web Development Skills :
 <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
@@ -28,7 +28,7 @@ Programming Languages and Web Development Skills:
   <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=githubpages&logoColor=white" />
 
 </p>
-Machine Learning & AI Tools Used:
+Machine Learning & AI Tools Used :
  <p align="center">
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -48,7 +48,17 @@ Machine Learning & AI Tools Used:
   <img src="https://img.shields.io/badge/Computer%20Vision-009688?style=flat&logo=opencv&logoColor=white" />
 </p>
 
-### Experiences
+### Research Experience - Undergraduate Thesis :
+### Real-time Social Distance Estimation using YOLO Convolutional Neural Network and Euclidean Distance.
+-  Proposed a real-time system to estimate social distancing by analyzing video footage from six distinct environments: good quality, fuzzy, daylight, nightlight, less populated, and crowded.
+-  The objective of this research was to estimate social distance in real-time and giving a tracking accuracy in percentage based on six different environments.
+-  Used Used YOLO (You Only Look Once) pretrained on the COCO dataset to detect people and draw bounding boxes; computed centroids and applied Euclidean distance to measure interpersonal spacing.
+-  Achieved 90\% tracking accuracy across varied conditions, supporting real-time public safety monitoring in low and high visibility environments.
+-  Tech: Python, OpenCV, YOLOv3, COCO Dataset, NumPy 
+
+
+
+### Other Experiences :
 - 🏦[Islami Bank Bangladesh PLC](https://www.linkedin.com/company/islamibankbangladeshplc) -(Sept 2025 - Present) - Currently working as Agent Banking Desk Officer.
 - 👩‍🎓[BITM](https://www.linkedin.com/company/basis-bitm) - (Feb 2019 - April 2019) - Trainee. Skills: OOP basics, Web basics (HTML, CSS, JavaScript), working with databases (MS SQL Server), web programming basics, and understanding the full life cycle of a real-life project with in-depth involvement. 
 - 🎨[Dot Pictures Studio](https://www.facebook.com/dotpicturesstudiofb) -(Active : May 2021 - April 2024) - Founder & Artist of  a design service and paintings business, where I created and sold Cartoon/Customized Banners, Graphics, Illustrations, Painted Products, Paintings, Ux/Ui.
