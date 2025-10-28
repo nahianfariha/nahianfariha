@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Computer%20Vision-009688?style=flat&logo=opencv&logoColor=white" />
 </p>
 
-### Research Experience - Undergraduate Thesis :
+### 🔬 Research Experience - Undergraduate Thesis :
 ## Real-time Social Distance Estimation using YOLO Convolutional Neural Network and Euclidean Distance.
 -  Proposed a real-time system to estimate social distancing by analyzing video footage from six distinct environments: good quality, fuzzy, daylight, nightlight, less populated, and crowded.
 -  The objective of this research was to estimate social distance in real-time and giving a tracking accuracy in percentage based on six different environments.
