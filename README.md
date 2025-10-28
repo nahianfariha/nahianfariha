@@ -8,8 +8,7 @@
 - 📈🧑‍💻 [Restaurant Profit Estimator using Linear Regression Model](https://github.com/nahianfariha/Restaurant-Profit-Estimator-using-Linear-Regression-Model.git)-A predictive analytics project that estimates restaurant profits based on city population data. Built with Python, NumPy, Matplotlib, and Linear Regression implemented from scratch in Jupyter Notebook.
 - 🌐👩‍💻 [Academic Portfolio Website](https://github.com/nahianfariha/Machine-Learning-and-Ai.git)-A professional academic portfolio website to showcase my projects, research, and achievements, built with React, Vite, Tailwind CSS, Node.js, and deployed on Github Pages.
 
-🛠 Skills:
-Web & Programming Languages:
+Programming Languages and Web Development Skills:
 <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
@@ -29,7 +28,7 @@ Web & Programming Languages:
   <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=githubpages&logoColor=white" />
 
 </p>
-Machine Learning & AI Tools:
+Machine Learning & AI Tools Used:
  <p align="center">
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
