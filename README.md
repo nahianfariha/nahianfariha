@@ -49,10 +49,9 @@ Machine Learning & AI Tools Used:
 </p>
 
 ### Experiences
-**🏦Currently working as Agent Banking Desk Officer, Islami Bank Bangladesh PLC. ( Sept 2025 - Present )**
-**👩‍🎓Trainee (BITM)- Skills: OOP basics, Web basics (HTML, CSS, JavaScript), working with databases (MS SQL Server), web programming basics, and understanding the full life cycle of a real-life project with in-depth involvement. ( Feb 2019 - April 2019 )**
-**🎨Founder & Artist of Dot Pictures Studio, a design service and paintings business, where I created and sold Cartoon/Customized Banners, Graphics, Illustrations, Painted Products, Paintings, Ux/Ui. ( Active : May 2021 - April 2024 )**
-
+- 🏦[Islami Bank Bangladesh PLC](https://www.linkedin.com/company/islamibankbangladeshplc) -(Sept 2025 - Present) - Currently working as Agent Banking Desk Officer.
+- 👩‍🎓[BITM](https://www.linkedin.com/company/basis-bitm) - (Feb 2019 - April 2019) - Trainee. Skills: OOP basics, Web basics (HTML, CSS, JavaScript), working with databases (MS SQL Server), web programming basics, and understanding the full life cycle of a real-life project with in-depth involvement. 
+- 🎨[Dot Pictures Studio](https://www.facebook.com/dotpicturesstudiofb) -(Active : May 2021 - April 2024) - Founder & Artist of  a design service and paintings business, where I created and sold Cartoon/Customized Banners, Graphics, Illustrations, Painted Products, Paintings, Ux/Ui.
 ---
 
 <p align="center" style="font-family: 'Lato', sans-serif; font-style: normal; text-transform: uppercase;">
