@@ -53,8 +53,8 @@
 ## Real-time Social Distance Estimation using YOLO Convolutional Neural Network and Euclidean Distance.
 -  Proposed a real-time system to estimate social distancing by analyzing video footage from six distinct environments: good quality, fuzzy, daylight, nightlight, less populated, and crowded.
 -  The objective of this research was to estimate social distance in real-time and giving a tracking accuracy in percentage based on six different environments.
--  Used Used YOLO (You Only Look Once) pretrained on the COCO dataset to detect people and draw bounding boxes; computed centroids and applied Euclidean distance to measure interpersonal spacing.
--  Achieved 90\% tracking accuracy across varied conditions, supporting real-time public safety monitoring in low and high visibility environments.
+-  Used YOLO (You Only Look Once) pretrained on the COCO dataset to detect people and draw bounding boxes; computed centroids and applied Euclidean distance to measure interpersonal spacing.
+-  Achieved 90% tracking accuracy across varied conditions, supporting real-time public safety monitoring in low and high visibility environments.
 -  Tech: Python, OpenCV, YOLOv3, COCO Dataset, NumPy 
 
 
