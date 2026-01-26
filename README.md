@@ -1,4 +1,4 @@
-<h2 align="center">🎓CS & Engineering Graduate | Aspiring Ph.D. Student | Research Interests : Generative AI (Trustworthy LLMs), Machine Learning, and Computer Vision.</h2>
+<h2 align="center">🎓CS & Engineering Graduate | Research Interests : Generative AI (Trustworthy LLMs), Machine Learning, and Computer Vision.</h2>
 <h3>💼 Featured Projects :</h3>
 
 - 🤖📧 [GenAI Cold Email Generator](https://github.com/nahianfariha/GenAI-Cold-Email-Generator.git)-RAG-based Cold Email Generator using Llama 3.1, LangChain, ChromaDB, and Streamlit that helps software companies send cold emails to acquire projects by extracting data from their potential clients’ job postings and matching the required skills with their portfolios.
