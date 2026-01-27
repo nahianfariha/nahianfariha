@@ -60,7 +60,7 @@
 
 
 ### Work Experiences :
-- 🏦[Islami Bank Bangladesh PLC](https://www.linkedin.com/company/islamibankbangladeshplc) -(Sept 2025 - Present) - Currently working as Agent Banking Desk Officer.
+- 🏦[Islami Bank Bangladesh PLC](https://www.linkedin.com/company/islamibankbangladeshplc) -(Sept 2025 - Dec 2025) - Currently working as Agent Banking Desk Officer.
 - 👩‍🎓[BITM](https://www.linkedin.com/company/basis-bitm) - (Feb 2019 - April 2019) - Trainee. Skills: OOP basics, Web basics (HTML, CSS, JavaScript), working with databases (MS SQL Server), web programming basics, and understanding the full life cycle of a real-life project with in-depth involvement. 
 - 🎨[Dot Pictures Studio](https://www.facebook.com/dotpicturesstudiofb) -(Active : May 2021 - April 2024) - Founder & Artist of a design and painting business, creating and selling Cartoon/Customized Banners, Graphics, Illustrations, Painted Products, Paintings, and UX/UI designs, helping clients bring their creative ideas to life.
 ---
