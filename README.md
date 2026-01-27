@@ -66,7 +66,7 @@
 ---
 
 <p align="center" style="font-family: 'Lato', sans-serif; font-style: normal; text-transform: uppercase;">
-<h3 align="center"> “CREATION AND PROBLEM-SOLVING BRING ME JOY—THEY’RE AT THE HEART OF EVERYTHING I DO.” </h3>   <h4 align="center"> Connect with Me:</h4> 
+<h3 align="center"> “CREATION AND PROBLEM-SOLVING BRING ME JOY. THEY’RE AT THE HEART OF EVERYTHING I DO.” </h3>   <h4 align="center"> Connect with Me:</h4> 
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/nahian-fariha/" target="_blank">
