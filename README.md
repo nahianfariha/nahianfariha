@@ -49,21 +49,6 @@
   <img src="https://img.shields.io/badge/Computer%20Vision-009688?style=flat&logo=opencv&logoColor=white" />
 </p>
 
-### 🔬 Research Experience - Undergraduate Thesis :
-## Real-time Social Distance Estimation using YOLO Convolutional Neural Network and Euclidean Distance.
--  Proposed a real-time system to estimate social distancing by analyzing video footage from six distinct environments: good quality, fuzzy, daylight, nightlight, less populated, and crowded.
--  The objective of this research was to estimate social distance in real-time and giving a tracking accuracy in percentage based on six different environments.
--  Used YOLO (You Only Look Once) pretrained on the COCO dataset to detect people and draw bounding boxes; computed centroids and applied Euclidean distance to measure interpersonal spacing.
--  Achieved 90% tracking accuracy across varied conditions, supporting real-time public safety monitoring in low and high visibility environments.
--  Tech: Python, OpenCV, YOLOv3, COCO Dataset, NumPy 
-
-
-
-### Work Experiences :
-- 🏦[Islami Bank Bangladesh PLC](https://www.linkedin.com/company/islamibankbangladeshplc) -(Sept 2025 - Dec 2025) - Currently working as Agent Banking Desk Officer.
-- 👩‍🎓[BITM](https://www.linkedin.com/company/basis-bitm) - (Feb 2019 - April 2019) - Trainee. Skills: OOP basics, Web basics (HTML, CSS, JavaScript), working with databases (MS SQL Server), web programming basics, and understanding the full life cycle of a real-life project with in-depth involvement. 
-- 🎨[Dot Pictures Studio](https://www.facebook.com/dotpicturesstudiofb) -(Active : May 2021 - April 2024) - Founder & Artist of a design and painting business, creating and selling Cartoon/Customized Banners, Graphics, Illustrations, Painted Products, Paintings, and UX/UI designs, helping clients bring their creative ideas to life.
----
 
 <p align="center" style="font-family: 'Lato', sans-serif; font-style: normal; text-transform: uppercase;">
 <h3 align="center"> “CREATION AND PROBLEM-SOLVING BRING ME JOY. THEY’RE AT THE HEART OF EVERYTHING I DO.” </h3>   <h4 align="center"> Connect with Me:</h4> 
