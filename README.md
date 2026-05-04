@@ -1,4 +1,4 @@
-<h2 align="center">🎓CS & Engineering Graduate | Interests : Trustworthy AI, Multimodal AI, AI for Business & Well-being, Machine Learning | Computer Vision (Prev.)</h2>
+<h2 align="center">🎓CS & Engineering Graduate | Interests : Natural Language Processing, Trustworthy AI, Multimodal AI and Machine Learning. | Undergrad Thesis: Computer Vision. </h2>
 <h3>💼 Featured Projects :</h3>
 
 - 🤖📧 [GenAI Cold Email Generator](https://github.com/nahianfariha/GenAI-Cold-Email-Generator.git)-RAG-based Cold Email Generator using Llama 3.1, LangChain, ChromaDB, and Streamlit that helps software companies send cold emails to acquire projects by extracting data from their potential clients’ job postings and matching the required skills with their portfolios.
